@@ -18,7 +18,7 @@ You are to create a simple todo list application using React. The application sh
 2. When the user clicks a "Add" button, the todo item should be added to a list displayed on the screen. (10 points)
 3. The list should be stored in the browser's localStorage, so that the todos persist even after refreshing the page. (10 points)
 4. Make the "Get friends list" button work (VIA REACT QUERY) (25 points)
- - should fetch from this web API: https://jsonplaceholder.typicode.com/posts/ 
+ - should fetch from this web API: https://jsonplaceholder.typicode.com/users/ 
  - it should access the "name" property of 10 JSON objects and display their names below.
  - use axios or fetch
 5. Each todo item in the list should have a "Delete" button, which removes the todo from both the list and localStorage. (10 points)
